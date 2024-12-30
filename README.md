@@ -10,5 +10,13 @@ Desenvolvi uma aplicação web utilizando Django, integrada a cinco páginas HTM
 Tecnologias utilizadas:
   -Python
   -Django
+  -Django REST Framework
   -HTML
   -CSS
+
+Métodos utilizados: a API REST foi desenvolvida utilizando os principais métodos:
+  -GET: para a recuperação de dados.
+  -POST: para a criação de novos registros.
+  -PUT: para a atualização completa de registros existentes.
+  -PATCH: para a atualização parcial de registros.
+  -DELETE: para a exclusão de registros.
