@@ -19,6 +19,7 @@ Desenvolvi uma aplicação web utilizando Django, integrada a cinco páginas HTM
 - Django REST Framework
 - HTML
 - CSS
+- Banco de Dados: SQLite (Django)
 
 A API REST foi desenvolvida utilizando os principais métodos:
 - GET: para a recuperação de dados.
