@@ -1,7 +1,7 @@
 
 # Sistema CLÍNICA DE ESTÉTICA BELLA
 
-Desenvolvi uma aplicação web utilizando Django, integrada a cinco páginas HTML, como parte da disciplina de Programação Web 2 na minha faculdade. O sistema foi projetado para gerenciar operações de uma clínica de estética e inclui as seguintes funcionalidades:
+Desenvolvi uma aplicação web utilizando Django, integrada a cinco páginas HTML, como parte da disciplina de Programação Web 2 na minha faculdade. Utilizando **Django** e **Django REST Framework**. O sistema foi projetado para gerenciar operações de uma clínica de estética e inclui as seguintes funcionalidades:
 
 
 
@@ -19,7 +19,7 @@ Desenvolvi uma aplicação web utilizando Django, integrada a cinco páginas HTM
 - Django REST Framework
 - HTML
 - CSS
-- Banco de Dados: SQLite (Django)
+- Banco de dados: SQLite 3 (Django)
 
 A API REST foi desenvolvida utilizando os principais métodos:
 - GET: para a recuperação de dados.
